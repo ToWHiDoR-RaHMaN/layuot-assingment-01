@@ -1,0 +1,102 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.header{
+    background-color: rgb(39, 38, 38);
+    color: rgb(247, 62, 62);
+    text-align: center;
+    height: 100px;
+    text-transform: uppercase;
+    font-size: 25px;
+    font-style: oblique;
+    
+}
+.prants{
+    overflow: hidden;
+
+}
+.left{
+    background-color: black;
+    color: gold;
+    float: left;
+    height: 250px;
+    width: 50%;
+    text-align: center;
+    text-transform: capitalize;
+}
+.Right{
+    background-color: rgb(29, 29, 29);
+    color: goldenrod;
+    float: right;
+    height: 250px;
+    width: 50%;
+    text-align: center;
+    text-transform: capitalize;
+}
+.prants2{
+    overflow: hidden;
+}
+.long{
+    background-color: goldenrod;
+    color: rgb(27, 27, 27);
+    float: left;
+    height: 100px;
+    width: 75%;
+    text-align: center;
+    text-transform: capitalize;
+}
+.short{
+    background-color: black;
+    color: gold;
+    float: right;
+    height: 100px;
+    width: 25%;
+    text-align: center;
+    text-transform: capitalize;
+}
+.claint1{
+    background-color: black;
+    color: gold;
+    float:left;
+    height: 80px;
+    width: 25%;
+    text-align: center;
+    text-transform: capitalize;
+}
+.claint2{
+    background-color: gold;
+    color: black;
+    float:left;
+    height: 80px;
+    width: 25%;
+    text-align: center;
+    text-transform: capitalize;
+}
+.claint3{
+    background-color: gray;
+    color: goldenrod;
+    float: left;
+    height: 80px;
+    width: 25%;
+    text-align: center;
+    text-transform: capitalize;
+}
+.claint4{
+    background-color: goldenrod;
+    color: gray;
+    float:left;
+    height: 80px;
+    width: 25%;
+    text-align: center;
+    text-transform: capitalize;
+}
+.footer{
+    background-color: rgb(34, 34, 34);
+    color: rgb(231, 175, 31);
+    height: 200px;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+   
